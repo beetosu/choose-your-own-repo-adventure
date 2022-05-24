@@ -1,2 +1,7 @@
-# choose-your-own-repo-adventure
-A classic choose-your-own adventure game played in a github repo
+# Repo Adventurer
+
+## Hello!
+
+![a guy with a sword](swordguy.gif)
+
+Eventually there will be a choose-your-own style game here, but I haven't written it yet. Come back later!
